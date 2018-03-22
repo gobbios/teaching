@@ -1,5 +1,11 @@
 Here are the sources/references for the data files.
 
+# lexical decisions
+This data set has been modified from its original source (max 4 observations per subject) and some columns have been removed.
+
+## source/reference
+R. H. Baayen (2013). languageR: Data sets and functions with "Analyzing Linguistic Data: A practical introduction to statistics". R package version 1.4.1. https://CRAN.R-project.org/package=languageR
+
 # acoustic course 2016
 ## source
 Christof Neumann
